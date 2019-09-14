@@ -1,4 +1,4 @@
-# interview-toolkit-javascript
+# Interview Toolkit For **JavaScript**
 
 * **All solutions and files are using only JavaScript**
 
