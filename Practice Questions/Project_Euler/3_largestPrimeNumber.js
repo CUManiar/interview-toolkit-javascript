@@ -7,6 +7,7 @@ function largestPrimeFactor(number) {
     }
     else prime++; //Only increment the prime number if the number isn't divisible by it
   }
+  console.log(max);
   return max;
 }
 
