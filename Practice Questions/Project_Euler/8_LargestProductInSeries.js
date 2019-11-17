@@ -4,14 +4,10 @@
  */
 
 /**
- * Problem Statement:  A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
-
-        a2 + b2 = c2
-        For example, 32 + 42 = 9 + 16 = 25 = 52.
-
-        There exists exactly one Pythagorean triplet for which a + b + c = 1000.
-        Find the product abc.
+ * Find the thirteen adjacent digits in the 1000-digit number 
+ * that have the greatest product. What is the value of this product?
  */
+
 const series = '73167176531330624919225119674426574742355349194934\
 96983520312774506326239578318016984801869478851843\
 85861560789112949495459501737958331952853208805511\
