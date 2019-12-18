@@ -48,6 +48,12 @@
        * [Problem 6: Sum of Square Difference](https://github.com/CUManiar/interview-toolkit-javascript/blob/master/Practice%20Questions/Project_Euler/6_sumSquareDifference.js)
        * [Problem 7: Nth Prime Number](https://github.com/CUManiar/interview-toolkit-javascript/blob/master/Practice%20Questions/Project_Euler/7_nthPrimeNumber.js)
        * [Problem 8: Largest Product in Series](https://github.com/CUManiar/interview-toolkit-javascript/blob/master/Practice%20Questions/Project_Euler/8_LargestProductInSeries.js)
+       * [Problem 9: Pythagoras Triplets](https://github.com/CUManiar/interview-toolkit-javascript/blob/master/Practice%20Questions/Project_Euler/9_ProductOfPythagorasTriplates.js)
+       * [Problem 10: Sum of All Primes below Million](https://github.com/CUManiar/interview-toolkit-javascript/blob/master/Practice%20Questions/Project_Euler/10_FindSumOfPrimes.js)
+       * [Problem 11: Find Largest product in the Grid](https://github.com/CUManiar/interview-toolkit-javascript/blob/master/Practice%20Questions/Project_Euler/11_LargestProductInGrid.js)
+       * [Problem 12: Highest Divisible Triangular Number](https://github.com/CUManiar/interview-toolkit-javascript/blob/master/Practice%20Questions/Project_Euler/12_HighlyDivisibleTriangularNumber.js)
+       * [Problem 13: Large Sume](https://github.com/CUManiar/interview-toolkit-javascript/blob/master/Practice%20Questions/Project_Euler/13_LargeSum.js)
+       * [Problem 14: Largest Collatz Number](https://github.com/CUManiar/interview-toolkit-javascript/blob/master/Practice%20Questions/Project_Euler/14_LargestColltzNumber.js)
        * [Work in Progress . . . ](https://github.com/CUManiar/interview-toolkit-javascript/tree/master/Practice%20Questions/Project_Euler)
        
      * ### Frequently Asked Questions
