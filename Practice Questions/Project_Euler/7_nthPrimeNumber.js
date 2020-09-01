@@ -11,9 +11,7 @@
 
 // Will check if number is prime or not
 function isPrime(val) {
-  if (val <= 1) {
-    return true;
-  } else if (val <= 3) {
+ if (val < 4) {
     return true;
   } else if (val % 2 === 0 || val % 3 === 0) {
     return false;
