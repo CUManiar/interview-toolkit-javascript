@@ -17,12 +17,12 @@ function selectionSort(arr) {
       if (arr[j] < arr[lowest]) lowest = j;
     }
     if (i !== lowest) {
-      console.log(arr);
       var temp = arr[i];
       arr[i] = arr[lowest];
       arr[lowest] = temp;
     }
   }
+  console.log(arr);
   return arr;
 }
 
