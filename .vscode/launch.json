@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/Project_Euler/11_LargestProductInGrid.js"
+            "program": "${workspaceFolder}/Practice Questions/Project_Euler/11_LargestProductInGrid.js"
         }
     ]
 }
